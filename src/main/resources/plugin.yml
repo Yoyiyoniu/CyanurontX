@@ -1,0 +1,10 @@
+name: CyanurontX
+version: '1.0'
+main: me.cyanstudios.cyanurontX.Main
+api-version: '1.21'
+
+commands:
+  cyanurontx:
+    description: Main command for cyanurontX
+    aliases: cx
+    permission: cyanurontX.command
